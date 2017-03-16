@@ -1,0 +1,25 @@
+{
+    "name": "crcms/helper",
+    "description": "crcms helper function",
+	"keywords": ["php", "helper","function","crcms"],
+	"homepage": "https://github.com/crcms/helper",
+    "license": "MIT",
+	"authors": [
+        {
+            "name": "simon",
+            "email": "28737164@qq.com",
+			"homepage": "http://crcms.cn"
+        }
+    ],
+    "require": {
+        "php":">=7.0"
+    },
+	"autoload": {
+        "files": [
+            "helper.php"
+        ],
+        "psr-4": {
+            
+        }
+    }
+}
